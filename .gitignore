@@ -1,0 +1,55 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+**/build/
+*.gradle
+*.jar
+*.war
+*.ear
+
+# Kotlin generated files
+*.class
+*.dex
+*.apk
+*.ap_
+*.so
+
+# Android Studio files
+.idea/
+*.iml
+*.hprof
+*.log
+
+# Local configuration files
+local.properties
+*.properties
+
+# User-specific files
+*.jks
+*.keystore
+
+# Execution history
+.gradle/8.2/executionHistory/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Others
+*.DS_Store
+*.swp
+*.swo
+*.swn
+*.orig
+
+# Ignore specific directories (if any)
+app/build/
+app/tmp/
+app/.idea/
+
+# Ignore generated sources
+app/build/generated/
+app/build/tmp/
+/.gradle/
