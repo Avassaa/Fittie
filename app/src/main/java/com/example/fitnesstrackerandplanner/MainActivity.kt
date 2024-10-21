@@ -391,144 +391,156 @@ fun BottomAppBar(navigationController: NavHostController, firebaseHelper: Fireba
 }
 @Preview
 @Composable
-fun previewBottomAppbar(){
+fun previewBottomAppbar() {
     Scaffold(
         bottomBar = {
-                NavigationBar(containerColor = LimeGreen, modifier = Modifier.height(75.dp)) {
-                    IconButton(
-                        onClick = {
+            NavigationBar(containerColor = LimeGreen, modifier = Modifier.height(75.dp)) {
+                IconButton(
+                    onClick = {
 
-                        },
+                    },
+                    modifier = Modifier
+                        .weight(1f)
+                        .height(90.dp)
+                ) {
+                    Column(
+                        horizontalAlignment = Alignment.CenterHorizontally,
                         modifier = Modifier
-                            .weight(1f)
                             .height(90.dp)
+                            .padding(top = 15.dp),
+                        verticalArrangement = Arrangement.Center
                     ) {
-                        Column(
-                            horizontalAlignment = Alignment.CenterHorizontally,
+                        Icon(
+                            imageVector = Icons.Default.Home,
+                            contentDescription = null,
                             modifier = Modifier
-                                .height(90.dp)
-                                .padding(top = 15.dp),
-                            verticalArrangement = Arrangement.Center
-                        ) {
-                            Icon(
-                                imageVector = Icons.Default.Home,
-                                contentDescription = null,
-                                modifier = Modifier
-                                    .size(26.dp)
-                                    .weight(1f),
-                            )
-                            Text(
-                                text = "Home",
-                                modifier = Modifier
-                                    .fillMaxWidth()
-                                    .weight(1f),
-                                textAlign = TextAlign.Center
-                            )
-                        }
-                    }
-
-                    IconButton(
-                        onClick = {
-
-
-                        },
-                        modifier = Modifier
-                            .weight(1f)
-                            .height(90.dp)
-                    ) {
-                        Column(horizontalAlignment = Alignment.CenterHorizontally,
+                                .size(26.dp)
+                                .weight(1f),
+                        )
+                        Text(
+                            text = "Home",
                             modifier = Modifier
-                                .height(90.dp)
-                                .padding(top = 15.dp),) {
-                            Icon(
-                                imageVector = Icons.Default.Star,
-                                contentDescription = null,
-                                modifier = Modifier
-                                    .size(26.dp)
-                                    .weight(1f),
-                            )
-                            Text("Goals",modifier= Modifier
                                 .fillMaxWidth()
-                                .weight(1f), textAlign = TextAlign.Center)
-                        }
+                                .weight(1f),
+                            textAlign = TextAlign.Center
+                        )
                     }
+                }
 
-                    val fabShape = RoundedCornerShape(50)
-                    Box(
+                IconButton(
+                    onClick = {
+
+
+                    },
+                    modifier = Modifier
+                        .weight(1f)
+                        .height(90.dp)
+                ) {
+                    Column(
+                        horizontalAlignment = Alignment.CenterHorizontally,
                         modifier = Modifier
-                            .weight(1f)
-                            .padding(6.dp),
-                        contentAlignment = Alignment.TopEnd
+                            .height(90.dp)
+                            .padding(top = 15.dp),
                     ) {
-                        FloatingActionButton(
-                            contentColor = PurpleGrey40,
-                            containerColor = Color.White,
-                            elevation = FloatingActionButtonDefaults.elevation(55.dp),
-                            shape = fabShape,
-                            onClick = {
-
-                            }
-                        ) {
-                            Icon(
-                                Icons.Default.Add,
-                                contentDescription = null,
-                            )
-                        }
+                        Icon(
+                            imageVector = Icons.Default.Star,
+                            contentDescription = null,
+                            modifier = Modifier
+                                .size(26.dp)
+                                .weight(1f),
+                        )
+                        Text(
+                            "Goals", modifier = Modifier
+                                .fillMaxWidth()
+                                .weight(1f), textAlign = TextAlign.Center
+                        )
                     }
+                }
 
-                    IconButton(
+                val fabShape = RoundedCornerShape(50)
+                Box(
+                    modifier = Modifier
+                        .weight(1f)
+                        .padding(6.dp),
+                    contentAlignment = Alignment.TopEnd
+                ) {
+                    FloatingActionButton(
+                        contentColor = PurpleGrey40,
+                        containerColor = Color.White,
+                        elevation = FloatingActionButtonDefaults.elevation(55.dp),
+                        shape = fabShape,
                         onClick = {
 
-                        },
-                        modifier = Modifier
-                            .weight(1f)
-                            .height(90.dp)
-                    ) {
-                        Column(horizontalAlignment = Alignment.CenterHorizontally,
-                            modifier = Modifier
-                                .height(90.dp)
-                                .padding(top = 15.dp),) {
-                            Icon(
-                                imageVector = Icons.Default.Favorite,
-                                contentDescription = null,
-                                modifier = Modifier
-                                    .size(26.dp)
-                                    .weight(1f),
-                            )
-                            Text(text = "Activities", fontSize = 13.sp,modifier= Modifier
-                                .fillMaxWidth()
-                                .weight(1f), textAlign = TextAlign.Center)
                         }
+                    ) {
+                        Icon(
+                            Icons.Default.Add,
+                            contentDescription = null,
+                        )
                     }
+                }
 
-                    IconButton(
-                        onClick = {
+                IconButton(
+                    onClick = {
 
-                        },
+                    },
+                    modifier = Modifier
+                        .weight(1f)
+                        .height(90.dp)
+                ) {
+                    Column(
+                        horizontalAlignment = Alignment.CenterHorizontally,
                         modifier = Modifier
-                            .weight(1f)
                             .height(90.dp)
+                            .padding(top = 15.dp),
                     ) {
-                        Column(horizontalAlignment = Alignment.CenterHorizontally,
+                        Icon(
+                            imageVector = Icons.Default.Favorite,
+                            contentDescription = null,
                             modifier = Modifier
-                                .height(90.dp)
-                                .padding(top = 15.dp),) {
-                            Icon(
-                                imageVector = Icons.Default.AccountCircle,
-                                contentDescription = null,
-                                modifier = Modifier
-                                    .size(26.dp)
-                                    .weight(1f),
-                            )
-                            Text(text = "Profile",modifier= Modifier
+                                .size(26.dp)
+                                .weight(1f),
+                        )
+                        Text(
+                            text = "Activities", fontSize = 13.sp, modifier = Modifier
                                 .fillMaxWidth()
-                                .weight(1f), textAlign = TextAlign.Center)
-                        }
+                                .weight(1f), textAlign = TextAlign.Center
+                        )
+                    }
+                }
+
+                IconButton(
+                    onClick = {
+
+                    },
+                    modifier = Modifier
+                        .weight(1f)
+                        .height(90.dp)
+                ) {
+                    Column(
+                        horizontalAlignment = Alignment.CenterHorizontally,
+                        modifier = Modifier
+                            .height(90.dp)
+                            .padding(top = 15.dp),
+                    ) {
+                        Icon(
+                            imageVector = Icons.Default.AccountCircle,
+                            contentDescription = null,
+                            modifier = Modifier
+                                .size(26.dp)
+                                .weight(1f),
+                        )
+                        Text(
+                            text = "Profile", modifier = Modifier
+                                .fillMaxWidth()
+                                .weight(1f), textAlign = TextAlign.Center
+                        )
                     }
                 }
             }
+        }
 
-    ){
+    ) {
 
     }
 }

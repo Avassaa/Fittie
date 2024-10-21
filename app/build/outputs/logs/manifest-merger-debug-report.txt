@@ -1,0 +1,1070 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:2:1-58:12
+INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:2:1-58:12
+MERGED from [androidx.compose.ui:ui-test-junit4-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/4a63a9bfebaba49d2b56f1dc785c9152/transformed/ui-test-junit4-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] /home/avassa/.gradle/caches/transforms-3/0208b7f38c9352d7b3cf7ecff5bf8315/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /home/avassa/.gradle/caches/transforms-3/86c6c7f9331df1434dec5ea8fbc82bff/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /home/avassa/.gradle/caches/transforms-3/bd28014537b99a902caf16982e519eac/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /home/avassa/.gradle/caches/transforms-3/ed30325552c429662efe60e39880b4d4/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /home/avassa/.gradle/caches/transforms-3/0433532c9bd3c5630e90fc34f245948e/transformed/navigation-compose-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:17:1-35:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:chromecast-sender:0.28] /home/avassa/.gradle/caches/transforms-3/3feadbeedf2ca8fd4f9e91ebeaf77d9d/transformed/chromecast-sender-0.28/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] /home/avassa/.gradle/caches/transforms-3/b199288ad1844e58cfcf54a1dc60963d/transformed/play-services-cast-21.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.3.0] /home/avassa/.gradle/caches/transforms-3/e73c78b8a51e4b079ec0ffed50a5221e/transformed/mediarouter-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/avassa/.gradle/caches/transforms-3/460b1b82a8944c619146ffacb49a939f/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/avassa/.gradle/caches/transforms-3/001538f0736bef36432a44fbfd126e27/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/avassa/.gradle/caches/transforms-3/63bbb1b370e98430f07978e02348849e/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/avassa/.gradle/caches/transforms-3/a8f9f96768d07c2ac335056b51ac15de/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/de51c24b4f853768be7c64887530f9e7/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/avassa/.gradle/caches/transforms-3/0ca99e61fe204021c1de6356fe1e3487/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] /home/avassa/.gradle/caches/transforms-3/d0d3be09dddf7c7edd4e01f945f73318/transformed/integrity-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/avassa/.gradle/caches/transforms-3/a8dabe467fc4b30ebd3dcb38d148f7f4/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/avassa/.gradle/caches/transforms-3/74e46981cd6c8a4b5f8f483abdd95273/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/avassa/.gradle/caches/transforms-3/f993e9c5bd351f583a2cf72ef9a5aa25/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:18.0.1] /home/avassa/.gradle/caches/transforms-3/cd8519c3b6044e6a6b93f923eb9caa7b/transformed/play-services-flags-18.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/avassa/.gradle/caches/transforms-3/e95c3eba9d399198b275dd825a1b86b4/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/avassa/.gradle/caches/transforms-3/2f96a972244e31019dbb355f473e3d2e/transformed/core-12.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/avassa/.gradle/caches/transforms-3/9e180dc30ac8eb059112511344abbaa1/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-ui:1.3.1] /home/avassa/.gradle/caches/transforms-3/efe24a51739fa63f213d5d1c9e556cd7/transformed/media3-ui-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-datasource:1.3.1] /home/avassa/.gradle/caches/transforms-3/873842f28bdea8f04464d5388ff90085/transformed/media3-datasource-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-extractor:1.3.1] /home/avassa/.gradle/caches/transforms-3/e860bfe28d0047e588744f42b481c021/transformed/media3-extractor-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.3.1] /home/avassa/.gradle/caches/transforms-3/b4306b4d09ed8da3b2893466202874bb/transformed/media3-container-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-decoder:1.3.1] /home/avassa/.gradle/caches/transforms-3/01b95b160b1d9e7e94cfc23a5e81e47b/transformed/media3-decoder-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-database:1.3.1] /home/avassa/.gradle/caches/transforms-3/48c98fb6a512b519f09cc1409afed5c4/transformed/media3-database-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-common:1.3.1] /home/avassa/.gradle/caches/transforms-3/7aa4326a60ad8da6dbfa4d73a661d27a/transformed/media3-common-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.3.1] /home/avassa/.gradle/caches/transforms-3/7f2b2b5de9f0c4e2285ee51b40fbd54f/transformed/media3-exoplayer-smoothstreaming-1.3.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/avassa/.gradle/caches/transforms-3/8b7036f7a075dbcb84e5660b49c5846a/transformed/media3-exoplayer-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] /home/avassa/.gradle/caches/transforms-3/8befcea391480f52c39a42fbf9726e0a/transformed/exoplayer-ui-2.19.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /home/avassa/.gradle/caches/transforms-3/900502789171d4e6c09410916fd5514c/transformed/recyclerview-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/avassa/.gradle/caches/transforms-3/ce439fa24626fc043c43fa2b3c04c4b6/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/bebbd88e36d0e613adafccdf76c64b96/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/fba16b00cb5bd23a41a73f84a55e2743/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/d4462f8dda4f52c7bf9277551ed8826b/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/64847bfd45365ca6dc029fc9b0382492/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/9dc68d821ab680bbf9ad7d5a1d8996f3/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/11a79952ed02a6286649e450f5f28b4f/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/c5e56ac0d24e1d76a57e8b609c5685f1/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/765585f59b3d6485f63338df79edc9d2/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/8fbca650a6488702aa4bb8aacfea7721/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/b50c5c080761002213b129d7de3304e7/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/65cd35c7cad0bafe8a2b176cd6670f5f/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/cb7bd05a6e644476e896db831d43314c/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/71bad66ae7881c1deb9580fe0c88f4c1/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/7fd39c5822b6b68ee31c5245a8c32ec1/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/c116abcb136c109c25f821ac263d032b/transformed/ui-test-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/avassa/.gradle/caches/transforms-3/d62e470aebabb6d73f505d802af70c03/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.7.0] /home/avassa/.gradle/caches/transforms-3/8271c1dc3e0b1b84847708bc1f9dd927/transformed/media-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/avassa/.gradle/caches/transforms-3/0d7a9e0a909f7dedb6d3004be70fea6a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] /home/avassa/.gradle/caches/transforms-3/cc880d3c05d9253920a5928c55c5a078/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/avassa/.gradle/caches/transforms-3/30a82fcaa5b96d7beffce720fb1b6c38/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/avassa/.gradle/caches/transforms-3/5061c5aaa2b166b01800da9e1e4eb95d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/avassa/.gradle/caches/transforms-3/4d538f47e158d3250de0ffb71c2caa91/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/avassa/.gradle/caches/transforms-3/b602d0b731821b63a02e4855d2fcbbc2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette:1.0.0] /home/avassa/.gradle/caches/transforms-3/ad60f4aee0ad7cbfd5928dedf94dbd05/transformed/palette-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/avassa/.gradle/caches/transforms-3/d6e075f7abecdbecadd412746f6e7085/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/avassa/.gradle/caches/transforms-3/131b3da7f2247f5071ab9544c1553773/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/avassa/.gradle/caches/transforms-3/b399a4f68cd6306fd71afdbfc9e8e189/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/avassa/.gradle/caches/transforms-3/42bc591503913ff11e492c0e8edee128/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.test.ext:junit-ktx:1.1.5] /home/avassa/.gradle/caches/transforms-3/88a0270545665e1deab6ef63451267b4/transformed/junit-ktx-1.1.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.ext:junit:1.1.5] /home/avassa/.gradle/caches/transforms-3/307e55cf3c1d5263173ff9b83f0034ae/transformed/junit-1.1.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.5.0] /home/avassa/.gradle/caches/transforms-3/e205d860d04f5e1f0a71206865984d1a/transformed/espresso-core-3.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/avassa/.gradle/caches/transforms-3/5ccf89af68f61af2423b9c41271fce26/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/avassa/.gradle/caches/transforms-3/474b38adb01b27050d7f0af8c2182f32/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] /home/avassa/.gradle/caches/transforms-3/3b23c07c7640ff531ea8bf1a47da45aa/transformed/lifecycle-livedata-core-ktx-2.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] /home/avassa/.gradle/caches/transforms-3/0577185d8879f133bab7d6d3161c552a/transformed/lifecycle-livedata-2.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/c089b7f43ddeb19909fc56fe7fe6e31c/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] /home/avassa/.gradle/caches/transforms-3/12d16de7e2bc7a31b7aa042ed91ebd27/transformed/lifecycle-viewmodel-2.8.0/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/4a718b17460110a90400c3d6f4846546/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/b3479e64d3570676b3f36e78928273d5/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /home/avassa/.gradle/caches/transforms-3/15271edd2b1f013d07325c4950ada0fd/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /home/avassa/.gradle/caches/transforms-3/6c650fc72c0d6dfb42913bf500f08679/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /home/avassa/.gradle/caches/transforms-3/5664b6e83aa273c01bacc7316592cc04/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/512dbc5d2d5d2807a46db76cd226b942/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6f27a0bdff928b63e9af62cb60b7395b/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/2f5d4adca092d468f01e3547e35e063d/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/avassa/.gradle/caches/transforms-3/f6331edead18bfdbe2ec3c24ea847f48/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/avassa/.gradle/caches/transforms-3/43359bf14bc377b94e329b4be4bde74e/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] /home/avassa/.gradle/caches/transforms-3/0ba5e8357284c6053118714c2cce96ec/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/avassa/.gradle/caches/transforms-3/78fe407d63fb945bca5315a9c26f192b/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/edae9ee1c4ae7ae484a16a1d560c5c8f/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:17:1-28:12
+MERGED from [io.grpc:grpc-android:1.57.2] /home/avassa/.gradle/caches/transforms-3/b85dfd15de2a2007c606ecbb353efc11/transformed/grpc-android-1.57.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/avassa/.gradle/caches/transforms-3/f0430d54cfa4ece51a9ae66d559c0473/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/avassa/.gradle/caches/transforms-3/9e776113f8d3aef27565301c8812d69e/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.test.services:storage:1.4.2] /home/avassa/.gradle/caches/transforms-3/7aec5b2f06e230a9885dae29391da8a6/transformed/storage-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.6.1] /home/avassa/.gradle/caches/transforms-3/b24d867e658c19ace74788759d9daa68/transformed/monitor-1.6.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:annotation:1.0.1] /home/avassa/.gradle/caches/transforms-3/935db7577208ae4f4d317e584770b928/transformed/annotation-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/avassa/.gradle/caches/transforms-3/593ec03e46b4443737a8eba3badda0ba/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/avassa/.gradle/caches/transforms-3/dac4318c3839f3f3272292f0a42b51c7/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/avassa/.gradle/caches/transforms-3/e75610425bcd9fd04dde6db9dfeeef5e/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/avassa/.gradle/caches/transforms-3/54244ec8596d1504738fd116b2c86157/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /home/avassa/.gradle/caches/transforms-3/38f6c755b726873626ff67d3b786d3b5/transformed/exoplayer-common-2.19.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/avassa/.gradle/caches/transforms-3/455b6c19ef65e0e1b95a852f66f0a18b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/avassa/.gradle/caches/transforms-3/87fc2bccf53689e40aa8adddb336e212/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/avassa/.gradle/caches/transforms-3/e12505c93a94b95457a9147fc511c91f/transformed/transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/avassa/.gradle/caches/transforms-3/e8243a244be1ea3bda1cf0c4f5c2acd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/avassa/.gradle/caches/transforms-3/f0a52018c9600bb936720780fe19d612/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/avassa/.gradle/caches/transforms-3/376c16d3812b500c96714cd5c6c4ab11/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/avassa/.gradle/caches/transforms-3/8c9fec7626f5d91d9e51946c3f89021f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/avassa/.gradle/caches/transforms-3/bd320eddc0bcf6d97881807694b0cbec/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/avassa/.gradle/caches/transforms-3/4b62013e96d44e5649130f94482c2b15/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/avassa/.gradle/caches/transforms-3/088195330b7eae658534242961cd2439/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/avassa/.gradle/caches/transforms-3/f09b967470bfdf617a92f2693a2b3c03/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.ozcanalasalvar.picker:wheelview:2.0.5] /home/avassa/.gradle/caches/transforms-3/edc3a432d58d8d27c9a77d66c3b1df59/transformed/wheelview-2.0.5/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.5.0] /home/avassa/.gradle/caches/transforms-3/4e37e7a03a020188a12216f28ec53dcd/transformed/espresso-idling-resource-3.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/avassa/.gradle/caches/transforms-3/ae27d13b1b096401487e3d965092fe86/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BODY_SENSORS
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:10:22-68
+uses-sdk
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:11:5-72
+INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:11:5-72
+INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:11:5-72
+MERGED from [androidx.compose.ui:ui-test-junit4-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/4a63a9bfebaba49d2b56f1dc785c9152/transformed/ui-test-junit4-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-junit4-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/4a63a9bfebaba49d2b56f1dc785c9152/transformed/ui-test-junit4-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /home/avassa/.gradle/caches/transforms-3/0208b7f38c9352d7b3cf7ecff5bf8315/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /home/avassa/.gradle/caches/transforms-3/0208b7f38c9352d7b3cf7ecff5bf8315/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /home/avassa/.gradle/caches/transforms-3/86c6c7f9331df1434dec5ea8fbc82bff/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /home/avassa/.gradle/caches/transforms-3/86c6c7f9331df1434dec5ea8fbc82bff/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /home/avassa/.gradle/caches/transforms-3/bd28014537b99a902caf16982e519eac/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /home/avassa/.gradle/caches/transforms-3/bd28014537b99a902caf16982e519eac/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /home/avassa/.gradle/caches/transforms-3/ed30325552c429662efe60e39880b4d4/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /home/avassa/.gradle/caches/transforms-3/ed30325552c429662efe60e39880b4d4/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /home/avassa/.gradle/caches/transforms-3/0433532c9bd3c5630e90fc34f245948e/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /home/avassa/.gradle/caches/transforms-3/0433532c9bd3c5630e90fc34f245948e/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:21:5-44
+MERGED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:21:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:chromecast-sender:0.28] /home/avassa/.gradle/caches/transforms-3/3feadbeedf2ca8fd4f9e91ebeaf77d9d/transformed/chromecast-sender-0.28/AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:chromecast-sender:0.28] /home/avassa/.gradle/caches/transforms-3/3feadbeedf2ca8fd4f9e91ebeaf77d9d/transformed/chromecast-sender-0.28/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] /home/avassa/.gradle/caches/transforms-3/b199288ad1844e58cfcf54a1dc60963d/transformed/play-services-cast-21.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] /home/avassa/.gradle/caches/transforms-3/b199288ad1844e58cfcf54a1dc60963d/transformed/play-services-cast-21.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.3.0] /home/avassa/.gradle/caches/transforms-3/e73c78b8a51e4b079ec0ffed50a5221e/transformed/mediarouter-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.mediarouter:mediarouter:1.3.0] /home/avassa/.gradle/caches/transforms-3/e73c78b8a51e4b079ec0ffed50a5221e/transformed/mediarouter-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/avassa/.gradle/caches/transforms-3/460b1b82a8944c619146ffacb49a939f/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/avassa/.gradle/caches/transforms-3/460b1b82a8944c619146ffacb49a939f/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/avassa/.gradle/caches/transforms-3/001538f0736bef36432a44fbfd126e27/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/avassa/.gradle/caches/transforms-3/001538f0736bef36432a44fbfd126e27/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/avassa/.gradle/caches/transforms-3/63bbb1b370e98430f07978e02348849e/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/avassa/.gradle/caches/transforms-3/63bbb1b370e98430f07978e02348849e/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/avassa/.gradle/caches/transforms-3/a8f9f96768d07c2ac335056b51ac15de/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/avassa/.gradle/caches/transforms-3/a8f9f96768d07c2ac335056b51ac15de/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/de51c24b4f853768be7c64887530f9e7/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/de51c24b4f853768be7c64887530f9e7/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/avassa/.gradle/caches/transforms-3/0ca99e61fe204021c1de6356fe1e3487/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /home/avassa/.gradle/caches/transforms-3/0ca99e61fe204021c1de6356fe1e3487/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /home/avassa/.gradle/caches/transforms-3/d0d3be09dddf7c7edd4e01f945f73318/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /home/avassa/.gradle/caches/transforms-3/d0d3be09dddf7c7edd4e01f945f73318/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/avassa/.gradle/caches/transforms-3/a8dabe467fc4b30ebd3dcb38d148f7f4/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/avassa/.gradle/caches/transforms-3/a8dabe467fc4b30ebd3dcb38d148f7f4/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/avassa/.gradle/caches/transforms-3/74e46981cd6c8a4b5f8f483abdd95273/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /home/avassa/.gradle/caches/transforms-3/74e46981cd6c8a4b5f8f483abdd95273/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/avassa/.gradle/caches/transforms-3/f993e9c5bd351f583a2cf72ef9a5aa25/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/avassa/.gradle/caches/transforms-3/f993e9c5bd351f583a2cf72ef9a5aa25/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:18.0.1] /home/avassa/.gradle/caches/transforms-3/cd8519c3b6044e6a6b93f923eb9caa7b/transformed/play-services-flags-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:18.0.1] /home/avassa/.gradle/caches/transforms-3/cd8519c3b6044e6a6b93f923eb9caa7b/transformed/play-services-flags-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/avassa/.gradle/caches/transforms-3/e95c3eba9d399198b275dd825a1b86b4/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/avassa/.gradle/caches/transforms-3/e95c3eba9d399198b275dd825a1b86b4/transformed/play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/avassa/.gradle/caches/transforms-3/2f96a972244e31019dbb355f473e3d2e/transformed/core-12.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/avassa/.gradle/caches/transforms-3/2f96a972244e31019dbb355f473e3d2e/transformed/core-12.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/avassa/.gradle/caches/transforms-3/9e180dc30ac8eb059112511344abbaa1/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/avassa/.gradle/caches/transforms-3/9e180dc30ac8eb059112511344abbaa1/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.3.1] /home/avassa/.gradle/caches/transforms-3/efe24a51739fa63f213d5d1c9e556cd7/transformed/media3-ui-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-ui:1.3.1] /home/avassa/.gradle/caches/transforms-3/efe24a51739fa63f213d5d1c9e556cd7/transformed/media3-ui-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.3.1] /home/avassa/.gradle/caches/transforms-3/873842f28bdea8f04464d5388ff90085/transformed/media3-datasource-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-datasource:1.3.1] /home/avassa/.gradle/caches/transforms-3/873842f28bdea8f04464d5388ff90085/transformed/media3-datasource-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.3.1] /home/avassa/.gradle/caches/transforms-3/e860bfe28d0047e588744f42b481c021/transformed/media3-extractor-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-extractor:1.3.1] /home/avassa/.gradle/caches/transforms-3/e860bfe28d0047e588744f42b481c021/transformed/media3-extractor-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.3.1] /home/avassa/.gradle/caches/transforms-3/b4306b4d09ed8da3b2893466202874bb/transformed/media3-container-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.3.1] /home/avassa/.gradle/caches/transforms-3/b4306b4d09ed8da3b2893466202874bb/transformed/media3-container-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.3.1] /home/avassa/.gradle/caches/transforms-3/01b95b160b1d9e7e94cfc23a5e81e47b/transformed/media3-decoder-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-decoder:1.3.1] /home/avassa/.gradle/caches/transforms-3/01b95b160b1d9e7e94cfc23a5e81e47b/transformed/media3-decoder-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.3.1] /home/avassa/.gradle/caches/transforms-3/48c98fb6a512b519f09cc1409afed5c4/transformed/media3-database-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-database:1.3.1] /home/avassa/.gradle/caches/transforms-3/48c98fb6a512b519f09cc1409afed5c4/transformed/media3-database-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.3.1] /home/avassa/.gradle/caches/transforms-3/7aa4326a60ad8da6dbfa4d73a661d27a/transformed/media3-common-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.3.1] /home/avassa/.gradle/caches/transforms-3/7aa4326a60ad8da6dbfa4d73a661d27a/transformed/media3-common-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.3.1] /home/avassa/.gradle/caches/transforms-3/7f2b2b5de9f0c4e2285ee51b40fbd54f/transformed/media3-exoplayer-smoothstreaming-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer-smoothstreaming:1.3.1] /home/avassa/.gradle/caches/transforms-3/7f2b2b5de9f0c4e2285ee51b40fbd54f/transformed/media3-exoplayer-smoothstreaming-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/avassa/.gradle/caches/transforms-3/8b7036f7a075dbcb84e5660b49c5846a/transformed/media3-exoplayer-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/avassa/.gradle/caches/transforms-3/8b7036f7a075dbcb84e5660b49c5846a/transformed/media3-exoplayer-1.3.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] /home/avassa/.gradle/caches/transforms-3/8befcea391480f52c39a42fbf9726e0a/transformed/exoplayer-ui-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.1] /home/avassa/.gradle/caches/transforms-3/8befcea391480f52c39a42fbf9726e0a/transformed/exoplayer-ui-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /home/avassa/.gradle/caches/transforms-3/900502789171d4e6c09410916fd5514c/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /home/avassa/.gradle/caches/transforms-3/900502789171d4e6c09410916fd5514c/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/avassa/.gradle/caches/transforms-3/ce439fa24626fc043c43fa2b3c04c4b6/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/avassa/.gradle/caches/transforms-3/ce439fa24626fc043c43fa2b3c04c4b6/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/bebbd88e36d0e613adafccdf76c64b96/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/bebbd88e36d0e613adafccdf76c64b96/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/fba16b00cb5bd23a41a73f84a55e2743/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/fba16b00cb5bd23a41a73f84a55e2743/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/d4462f8dda4f52c7bf9277551ed8826b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.7] /home/avassa/.gradle/caches/transforms-3/d4462f8dda4f52c7bf9277551ed8826b/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/64847bfd45365ca6dc029fc9b0382492/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/64847bfd45365ca6dc029fc9b0382492/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/9dc68d821ab680bbf9ad7d5a1d8996f3/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/9dc68d821ab680bbf9ad7d5a1d8996f3/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/11a79952ed02a6286649e450f5f28b4f/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/11a79952ed02a6286649e450f5f28b4f/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/c5e56ac0d24e1d76a57e8b609c5685f1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/c5e56ac0d24e1d76a57e8b609c5685f1/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/765585f59b3d6485f63338df79edc9d2/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/765585f59b3d6485f63338df79edc9d2/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/8fbca650a6488702aa4bb8aacfea7721/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/8fbca650a6488702aa4bb8aacfea7721/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/b50c5c080761002213b129d7de3304e7/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/b50c5c080761002213b129d7de3304e7/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/65cd35c7cad0bafe8a2b176cd6670f5f/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/65cd35c7cad0bafe8a2b176cd6670f5f/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/cb7bd05a6e644476e896db831d43314c/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/cb7bd05a6e644476e896db831d43314c/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/71bad66ae7881c1deb9580fe0c88f4c1/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/71bad66ae7881c1deb9580fe0c88f4c1/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/7fd39c5822b6b68ee31c5245a8c32ec1/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/7fd39c5822b6b68ee31c5245a8c32ec1/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/c116abcb136c109c25f821ac263d032b/transformed/ui-test-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/c116abcb136c109c25f821ac263d032b/transformed/ui-test-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/avassa/.gradle/caches/transforms-3/d62e470aebabb6d73f505d802af70c03/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/avassa/.gradle/caches/transforms-3/d62e470aebabb6d73f505d802af70c03/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] /home/avassa/.gradle/caches/transforms-3/8271c1dc3e0b1b84847708bc1f9dd927/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.7.0] /home/avassa/.gradle/caches/transforms-3/8271c1dc3e0b1b84847708bc1f9dd927/transformed/media-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/avassa/.gradle/caches/transforms-3/0d7a9e0a909f7dedb6d3004be70fea6a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/avassa/.gradle/caches/transforms-3/0d7a9e0a909f7dedb6d3004be70fea6a/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] /home/avassa/.gradle/caches/transforms-3/cc880d3c05d9253920a5928c55c5a078/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/avassa/.gradle/caches/transforms-3/cc880d3c05d9253920a5928c55c5a078/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/avassa/.gradle/caches/transforms-3/30a82fcaa5b96d7beffce720fb1b6c38/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/avassa/.gradle/caches/transforms-3/30a82fcaa5b96d7beffce720fb1b6c38/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/avassa/.gradle/caches/transforms-3/5061c5aaa2b166b01800da9e1e4eb95d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/avassa/.gradle/caches/transforms-3/5061c5aaa2b166b01800da9e1e4eb95d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/avassa/.gradle/caches/transforms-3/4d538f47e158d3250de0ffb71c2caa91/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/avassa/.gradle/caches/transforms-3/4d538f47e158d3250de0ffb71c2caa91/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/avassa/.gradle/caches/transforms-3/b602d0b731821b63a02e4855d2fcbbc2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/avassa/.gradle/caches/transforms-3/b602d0b731821b63a02e4855d2fcbbc2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette:1.0.0] /home/avassa/.gradle/caches/transforms-3/ad60f4aee0ad7cbfd5928dedf94dbd05/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /home/avassa/.gradle/caches/transforms-3/ad60f4aee0ad7cbfd5928dedf94dbd05/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/avassa/.gradle/caches/transforms-3/d6e075f7abecdbecadd412746f6e7085/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/avassa/.gradle/caches/transforms-3/d6e075f7abecdbecadd412746f6e7085/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/avassa/.gradle/caches/transforms-3/131b3da7f2247f5071ab9544c1553773/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/avassa/.gradle/caches/transforms-3/131b3da7f2247f5071ab9544c1553773/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/avassa/.gradle/caches/transforms-3/b399a4f68cd6306fd71afdbfc9e8e189/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/avassa/.gradle/caches/transforms-3/b399a4f68cd6306fd71afdbfc9e8e189/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/avassa/.gradle/caches/transforms-3/42bc591503913ff11e492c0e8edee128/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/avassa/.gradle/caches/transforms-3/42bc591503913ff11e492c0e8edee128/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.ext:junit-ktx:1.1.5] /home/avassa/.gradle/caches/transforms-3/88a0270545665e1deab6ef63451267b4/transformed/junit-ktx-1.1.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit-ktx:1.1.5] /home/avassa/.gradle/caches/transforms-3/88a0270545665e1deab6ef63451267b4/transformed/junit-ktx-1.1.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.5] /home/avassa/.gradle/caches/transforms-3/307e55cf3c1d5263173ff9b83f0034ae/transformed/junit-1.1.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.1.5] /home/avassa/.gradle/caches/transforms-3/307e55cf3c1d5263173ff9b83f0034ae/transformed/junit-1.1.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.5.0] /home/avassa/.gradle/caches/transforms-3/e205d860d04f5e1f0a71206865984d1a/transformed/espresso-core-3.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.5.0] /home/avassa/.gradle/caches/transforms-3/e205d860d04f5e1f0a71206865984d1a/transformed/espresso-core-3.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/avassa/.gradle/caches/transforms-3/5ccf89af68f61af2423b9c41271fce26/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/avassa/.gradle/caches/transforms-3/5ccf89af68f61af2423b9c41271fce26/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/avassa/.gradle/caches/transforms-3/474b38adb01b27050d7f0af8c2182f32/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/avassa/.gradle/caches/transforms-3/474b38adb01b27050d7f0af8c2182f32/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] /home/avassa/.gradle/caches/transforms-3/3b23c07c7640ff531ea8bf1a47da45aa/transformed/lifecycle-livedata-core-ktx-2.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] /home/avassa/.gradle/caches/transforms-3/3b23c07c7640ff531ea8bf1a47da45aa/transformed/lifecycle-livedata-core-ktx-2.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] /home/avassa/.gradle/caches/transforms-3/0577185d8879f133bab7d6d3161c552a/transformed/lifecycle-livedata-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] /home/avassa/.gradle/caches/transforms-3/0577185d8879f133bab7d6d3161c552a/transformed/lifecycle-livedata-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/c089b7f43ddeb19909fc56fe7fe6e31c/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/c089b7f43ddeb19909fc56fe7fe6e31c/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] /home/avassa/.gradle/caches/transforms-3/12d16de7e2bc7a31b7aa042ed91ebd27/transformed/lifecycle-viewmodel-2.8.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] /home/avassa/.gradle/caches/transforms-3/12d16de7e2bc7a31b7aa042ed91ebd27/transformed/lifecycle-viewmodel-2.8.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/4a718b17460110a90400c3d6f4846546/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/4a718b17460110a90400c3d6f4846546/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/b3479e64d3570676b3f36e78928273d5/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/b3479e64d3570676b3f36e78928273d5/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /home/avassa/.gradle/caches/transforms-3/15271edd2b1f013d07325c4950ada0fd/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /home/avassa/.gradle/caches/transforms-3/15271edd2b1f013d07325c4950ada0fd/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /home/avassa/.gradle/caches/transforms-3/6c650fc72c0d6dfb42913bf500f08679/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /home/avassa/.gradle/caches/transforms-3/6c650fc72c0d6dfb42913bf500f08679/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /home/avassa/.gradle/caches/transforms-3/5664b6e83aa273c01bacc7316592cc04/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /home/avassa/.gradle/caches/transforms-3/5664b6e83aa273c01bacc7316592cc04/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/512dbc5d2d5d2807a46db76cd226b942/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /home/avassa/.gradle/caches/transforms-3/512dbc5d2d5d2807a46db76cd226b942/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6f27a0bdff928b63e9af62cb60b7395b/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6f27a0bdff928b63e9af62cb60b7395b/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/2f5d4adca092d468f01e3547e35e063d/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/2f5d4adca092d468f01e3547e35e063d/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/avassa/.gradle/caches/transforms-3/f6331edead18bfdbe2ec3c24ea847f48/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/avassa/.gradle/caches/transforms-3/f6331edead18bfdbe2ec3c24ea847f48/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /home/avassa/.gradle/caches/transforms-3/43359bf14bc377b94e329b4be4bde74e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/avassa/.gradle/caches/transforms-3/43359bf14bc377b94e329b4be4bde74e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] /home/avassa/.gradle/caches/transforms-3/0ba5e8357284c6053118714c2cce96ec/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /home/avassa/.gradle/caches/transforms-3/0ba5e8357284c6053118714c2cce96ec/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/avassa/.gradle/caches/transforms-3/78fe407d63fb945bca5315a9c26f192b/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/avassa/.gradle/caches/transforms-3/78fe407d63fb945bca5315a9c26f192b/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/edae9ee1c4ae7ae484a16a1d560c5c8f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/edae9ee1c4ae7ae484a16a1d560c5c8f/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /home/avassa/.gradle/caches/transforms-3/b85dfd15de2a2007c606ecbb353efc11/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /home/avassa/.gradle/caches/transforms-3/b85dfd15de2a2007c606ecbb353efc11/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/avassa/.gradle/caches/transforms-3/f0430d54cfa4ece51a9ae66d559c0473/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-splashscreen:1.0.1] /home/avassa/.gradle/caches/transforms-3/f0430d54cfa4ece51a9ae66d559c0473/transformed/core-splashscreen-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/avassa/.gradle/caches/transforms-3/9e776113f8d3aef27565301c8812d69e/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /home/avassa/.gradle/caches/transforms-3/9e776113f8d3aef27565301c8812d69e/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] /home/avassa/.gradle/caches/transforms-3/7aec5b2f06e230a9885dae29391da8a6/transformed/storage-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.2] /home/avassa/.gradle/caches/transforms-3/7aec5b2f06e230a9885dae29391da8a6/transformed/storage-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.1] /home/avassa/.gradle/caches/transforms-3/b24d867e658c19ace74788759d9daa68/transformed/monitor-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.6.1] /home/avassa/.gradle/caches/transforms-3/b24d867e658c19ace74788759d9daa68/transformed/monitor-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] /home/avassa/.gradle/caches/transforms-3/935db7577208ae4f4d317e584770b928/transformed/annotation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:annotation:1.0.1] /home/avassa/.gradle/caches/transforms-3/935db7577208ae4f4d317e584770b928/transformed/annotation-1.0.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/avassa/.gradle/caches/transforms-3/593ec03e46b4443737a8eba3badda0ba/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/avassa/.gradle/caches/transforms-3/593ec03e46b4443737a8eba3badda0ba/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/avassa/.gradle/caches/transforms-3/dac4318c3839f3f3272292f0a42b51c7/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/avassa/.gradle/caches/transforms-3/dac4318c3839f3f3272292f0a42b51c7/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/avassa/.gradle/caches/transforms-3/e75610425bcd9fd04dde6db9dfeeef5e/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /home/avassa/.gradle/caches/transforms-3/e75610425bcd9fd04dde6db9dfeeef5e/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/avassa/.gradle/caches/transforms-3/54244ec8596d1504738fd116b2c86157/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /home/avassa/.gradle/caches/transforms-3/54244ec8596d1504738fd116b2c86157/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /home/avassa/.gradle/caches/transforms-3/38f6c755b726873626ff67d3b786d3b5/transformed/exoplayer-common-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /home/avassa/.gradle/caches/transforms-3/38f6c755b726873626ff67d3b786d3b5/transformed/exoplayer-common-2.19.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/avassa/.gradle/caches/transforms-3/455b6c19ef65e0e1b95a852f66f0a18b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/avassa/.gradle/caches/transforms-3/455b6c19ef65e0e1b95a852f66f0a18b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/avassa/.gradle/caches/transforms-3/87fc2bccf53689e40aa8adddb336e212/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/avassa/.gradle/caches/transforms-3/87fc2bccf53689e40aa8adddb336e212/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/avassa/.gradle/caches/transforms-3/e12505c93a94b95457a9147fc511c91f/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /home/avassa/.gradle/caches/transforms-3/e12505c93a94b95457a9147fc511c91f/transformed/transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/avassa/.gradle/caches/transforms-3/e8243a244be1ea3bda1cf0c4f5c2acd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/avassa/.gradle/caches/transforms-3/e8243a244be1ea3bda1cf0c4f5c2acd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/avassa/.gradle/caches/transforms-3/f0a52018c9600bb936720780fe19d612/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/avassa/.gradle/caches/transforms-3/f0a52018c9600bb936720780fe19d612/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/avassa/.gradle/caches/transforms-3/376c16d3812b500c96714cd5c6c4ab11/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/avassa/.gradle/caches/transforms-3/376c16d3812b500c96714cd5c6c4ab11/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/avassa/.gradle/caches/transforms-3/8c9fec7626f5d91d9e51946c3f89021f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/avassa/.gradle/caches/transforms-3/8c9fec7626f5d91d9e51946c3f89021f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/avassa/.gradle/caches/transforms-3/bd320eddc0bcf6d97881807694b0cbec/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /home/avassa/.gradle/caches/transforms-3/bd320eddc0bcf6d97881807694b0cbec/transformed/firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/avassa/.gradle/caches/transforms-3/4b62013e96d44e5649130f94482c2b15/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/avassa/.gradle/caches/transforms-3/4b62013e96d44e5649130f94482c2b15/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/avassa/.gradle/caches/transforms-3/088195330b7eae658534242961cd2439/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/avassa/.gradle/caches/transforms-3/088195330b7eae658534242961cd2439/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/avassa/.gradle/caches/transforms-3/f09b967470bfdf617a92f2693a2b3c03/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/avassa/.gradle/caches/transforms-3/f09b967470bfdf617a92f2693a2b3c03/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.ozcanalasalvar.picker:wheelview:2.0.5] /home/avassa/.gradle/caches/transforms-3/edc3a432d58d8d27c9a77d66c3b1df59/transformed/wheelview-2.0.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ozcanalasalvar.picker:wheelview:2.0.5] /home/avassa/.gradle/caches/transforms-3/edc3a432d58d8d27c9a77d66c3b1df59/transformed/wheelview-2.0.5/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.5.0] /home/avassa/.gradle/caches/transforms-3/4e37e7a03a020188a12216f28ec53dcd/transformed/espresso-idling-resource-3.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.5.0] /home/avassa/.gradle/caches/transforms-3/4e37e7a03a020188a12216f28ec53dcd/transformed/espresso-idling-resource-3.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/avassa/.gradle/caches/transforms-3/ae27d13b1b096401487e3d965092fe86/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/avassa/.gradle/caches/transforms-3/ae27d13b1b096401487e3d965092fe86/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:11:15-69
+	android:targetSdkVersion
+		INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:12:5-66
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/avassa/.gradle/caches/transforms-3/2f96a972244e31019dbb355f473e3d2e/transformed/core-12.1.0/AndroidManifest.xml:7:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/avassa/.gradle/caches/transforms-3/2f96a972244e31019dbb355f473e3d2e/transformed/core-12.1.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.health.READ_HEART_RATE
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.health.WRITE_HEART_RATE
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:14:22-79
+uses-permission#android.permission.health.READ_STEPS
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.health.WRITE_STEPS
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:16:22-74
+uses-permission#android.permission.health.READ_EXERCISE
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.health.WRITE_EXERCISE
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.health.READ_TOTAL_CALORIES_BURNED
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:19:5-91
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:19:22-89
+uses-permission#android.permission.health.WRITE_TOTAL_CALORIES_BURNED
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:20:5-92
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:20:22-90
+uses-permission#android.permission.health.READ_WEIGHT
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:21:22-74
+uses-permission#android.permission.health.WRITE_WEIGHT
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:22:22-75
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:23:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:24:22-78
+queries
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:26:5-28:15
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:12:5-14:15
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:12:5-14:15
+MERGED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:24:5-28:15
+MERGED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:24:5-28:15
+package#com.google.android.apps.healthdata
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:27:9-70
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:27:18-67
+application
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:29:5-56:19
+INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:29:5-56:19
+MERGED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:16:5-28:19
+MERGED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:16:5-28:19
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] /home/avassa/.gradle/caches/transforms-3/b199288ad1844e58cfcf54a1dc60963d/transformed/play-services-cast-21.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:21.2.0] /home/avassa/.gradle/caches/transforms-3/b199288ad1844e58cfcf54a1dc60963d/transformed/play-services-cast-21.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/avassa/.gradle/caches/transforms-3/a8f9f96768d07c2ac335056b51ac15de/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/avassa/.gradle/caches/transforms-3/a8f9f96768d07c2ac335056b51ac15de/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.play:integrity:1.2.0] /home/avassa/.gradle/caches/transforms-3/d0d3be09dddf7c7edd4e01f945f73318/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] /home/avassa/.gradle/caches/transforms-3/d0d3be09dddf7c7edd4e01f945f73318/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/avassa/.gradle/caches/transforms-3/a8dabe467fc4b30ebd3dcb38d148f7f4/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /home/avassa/.gradle/caches/transforms-3/a8dabe467fc4b30ebd3dcb38d148f7f4/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/avassa/.gradle/caches/transforms-3/f993e9c5bd351f583a2cf72ef9a5aa25/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /home/avassa/.gradle/caches/transforms-3/f993e9c5bd351f583a2cf72ef9a5aa25/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/avassa/.gradle/caches/transforms-3/f6331edead18bfdbe2ec3c24ea847f48/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /home/avassa/.gradle/caches/transforms-3/f6331edead18bfdbe2ec3c24ea847f48/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/avassa/.gradle/caches/transforms-3/e8243a244be1ea3bda1cf0c4f5c2acd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/avassa/.gradle/caches/transforms-3/e8243a244be1ea3bda1cf0c4f5c2acd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/avassa/.gradle/caches/transforms-3/8c9fec7626f5d91d9e51946c3f89021f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/avassa/.gradle/caches/transforms-3/8c9fec7626f5d91d9e51946c3f89021f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:35:9-41
+	android:fullBackupContent
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:33:9-54
+	android:roundIcon
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:36:9-53
+	tools:targetApi
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:39:9-29
+	android:icon
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:34:9-48
+	android:allowBackup
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:38:9-64
+	android:dataExtractionRules
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:32:9-65
+activity#com.example.fitnesstrackerandplanner.MainActivity
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:41:9-54:20
+	android:label
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:44:13-45
+	android:exported
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:43:13-36
+	android:theme
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:45:13-68
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:42:13-41
+intent-filter#action:name:android.intent.action.MAIN+action:name:androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE+category:name:android.intent.category.LAUNCHER
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:46:13-53:29
+action#android.intent.action.MAIN
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:49:27-74
+action#androidx.health.ACTION_SHOW_PERMISSIONS_RATIONALE
+ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:51:17-92
+	android:name
+		ADDED from /home/avassa/Desktop/Fittie/Fittie/app/src/main/AndroidManifest.xml:51:25-89
+service#androidx.health.platform.client.impl.sdkservice.HealthDataSdkService
+ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:27:13-36
+	tools:ignore
+		ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:28:13-43
+	android:name
+		ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:25:13-96
+intent-filter#action:name:androidx.health.platform.client.ACTION_BIND_SDK_SERVICE
+ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:29:13-31:29
+action#androidx.health.platform.client.ACTION_BIND_SDK_SERVICE
+ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:30:17-98
+	android:name
+		ADDED from [androidx.health.connect:connect-client:1.0.0-alpha11] /home/avassa/.gradle/caches/transforms-3/39ddc1e34caef8115795cb34eafc2386/transformed/connect-client-1.0.0-alpha11/AndroidManifest.xml:30:25-95
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:10:22-74
+package#com.google.android.gms.policy_cast_dynamite
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:13:9-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:13:18-76
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:18:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:21:9-24:61
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:23:13-37
+	android:foregroundServiceType
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:24:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:22:13-96
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:21.2.0] /home/avassa/.gradle/caches/transforms-3/0c48ba0b14e6a241b1ddb62dff6c4733/transformed/play-services-cast-framework-21.2.0/AndroidManifest.xml:26:13-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/avassa/.gradle/caches/transforms-3/2f96a972244e31019dbb355f473e3d2e/transformed/core-12.1.0/AndroidManifest.xml:8:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] /home/avassa/.gradle/caches/transforms-3/2f96a972244e31019dbb355f473e3d2e/transformed/core-12.1.0/AndroidManifest.xml:8:5-79
+MERGED from [androidx.media3:media3-common:1.3.1] /home/avassa/.gradle/caches/transforms-3/7aa4326a60ad8da6dbfa4d73a661d27a/transformed/media3-common-1.3.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-common:1.3.1] /home/avassa/.gradle/caches/transforms-3/7aa4326a60ad8da6dbfa4d73a661d27a/transformed/media3-common-1.3.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/avassa/.gradle/caches/transforms-3/8b7036f7a075dbcb84e5660b49c5846a/transformed/media3-exoplayer-1.3.1/AndroidManifest.xml:22:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.3.1] /home/avassa/.gradle/caches/transforms-3/8b7036f7a075dbcb84e5660b49c5846a/transformed/media3-exoplayer-1.3.1/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /home/avassa/.gradle/caches/transforms-3/b85dfd15de2a2007c606ecbb353efc11/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /home/avassa/.gradle/caches/transforms-3/b85dfd15de2a2007c606ecbb353efc11/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /home/avassa/.gradle/caches/transforms-3/38f6c755b726873626ff67d3b786d3b5/transformed/exoplayer-common-2.19.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.1] /home/avassa/.gradle/caches/transforms-3/38f6c755b726873626ff67d3b786d3b5/transformed/exoplayer-common-2.19.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:68:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:67:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /home/avassa/.gradle/caches/transforms-3/99df994f378dfedff6cb3854d2de3997/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /home/avassa/.gradle/caches/transforms-3/55d247a34a3e863a7ae5a1395c41ee7b/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/3a9e80024b76acd4f054d5682daba7e5/transformed/firebase-database-ktx-21.0.0/AndroidManifest.xml:13:17-127
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /home/avassa/.gradle/caches/transforms-3/d871f8db90d329f33c1af2ab8d68361f/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /home/avassa/.gradle/caches/transforms-3/8a4105e7656d86f106e3d7c313895ab0/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /home/avassa/.gradle/caches/transforms-3/efe4b53c77b1ae18dc4512b79ce16555/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /home/avassa/.gradle/caches/transforms-3/3b8dcf5162562453af6e79ca9db1e9c1/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] /home/avassa/.gradle/caches/transforms-3/80f816c75c420ad4be616a68c7bfd8ca/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /home/avassa/.gradle/caches/transforms-3/138e239196e930b7317227e6baf5ed14/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/avassa/.gradle/caches/transforms-3/f0f796670857a10947324cddf26b83cc/transformed/play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.8] /home/avassa/.gradle/caches/transforms-3/6cf0d898b3eeab4c79add00281c9acbc/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/avassa/.gradle/caches/transforms-3/e8243a244be1ea3bda1cf0c4f5c2acd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/avassa/.gradle/caches/transforms-3/e8243a244be1ea3bda1cf0c4f5c2acd3/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/avassa/.gradle/caches/transforms-3/00c1f8b17bb0c6793463c970024f14e9/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.fitnesstrackerandplanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.fitnesstrackerandplanner.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/avassa/.gradle/caches/transforms-3/8af73334dd4b2c7941cf2e1b251f1e3f/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /home/avassa/.gradle/caches/transforms-3/f58e39b2bd83d9f1a3775d1ae529f73a/transformed/core-1.5.0/AndroidManifest.xml:44:13-103
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /home/avassa/.gradle/caches/transforms-3/52719fc9a000bda386e0eecfee4cdbfd/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /home/avassa/.gradle/caches/transforms-3/dcaf01ee9817df82bd9e0317236894cf/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.8] /home/avassa/.gradle/caches/transforms-3/f2b90552bcc8916573ce97294260ac45/transformed/ui-test-manifest-1.6.8/AndroidManifest.xml:24:13-63
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.5.0] /home/avassa/.gradle/caches/transforms-3/b2ab570e922701e3ce8d2fc26e4ffe2f/transformed/runner-1.5.0/AndroidManifest.xml:27:18-80
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/avassa/.gradle/caches/transforms-3/80e8e880c634a2564acab230e8564cd1/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.3] /home/avassa/.gradle/caches/transforms-3/5eed78de3b4859f1934f1d5ac9b5d59f/transformed/transport-backend-cct-3.1.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.3] /home/avassa/.gradle/caches/transforms-3/4611e7ae3e1ff5a6d76f4fee0d2709ef/transformed/transport-runtime-3.1.3/AndroidManifest.xml:33:13-132

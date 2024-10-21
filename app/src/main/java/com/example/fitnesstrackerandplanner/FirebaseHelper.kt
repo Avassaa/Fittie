@@ -263,7 +263,7 @@ class FirebaseHelper {
                 exercises
             } catch (e: Exception) {
                 Log.e("FirebaseHelper", "Error fetching exercises", e)
-                emptyList() // Return empty list on error
+                initializeExercises()
             }
         }
     }

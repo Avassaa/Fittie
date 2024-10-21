@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_goals.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/goals.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_lowfat.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/lowfat.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_mediterranean.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/mediterranean.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_home.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/home.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_water_drop.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/water_drop.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_profile.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/profile.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_height_logo.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/height_logo.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/xml_backup_rules.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_paleo.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/paleo.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_stopped.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/stopped.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_icons8_sunny_48.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/icons8_sunny_48.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_icons8_moon_48.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/icons8_moon_48.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_nightlogo.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/nightlogo.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable_bluetooth_wave_svgrepo_com.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable/bluetooth_wave_svgrepo_com.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_keto.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/keto.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable_baseline_arrow_drop_down_24.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable/baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_resumed.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/resumed.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_info.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/info.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-xxxhdpi_ai_heart.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-xxxhdpi/ai_heart.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_vegan.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/vegan.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-hdpi_fire.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-hdpi/fire.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_highprotein.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/highprotein.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_gymdumbell.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/gymdumbell.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_watch.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/watch.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_lowcarb.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/lowcarb.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_scale_logo.jpg.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/scale_logo.jpg"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_add.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/add.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_dumbell_splash.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/dumbell_splash.png"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_dumbell.jpg.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/dumbell.jpg"
+    },
+    {
+        "merged": "com.example.fitnesstrackerandplanner.app-merged_res-79:/drawable-nodpi_foodlogo.png.flat",
+        "source": "com.example.fitnesstrackerandplanner.app-main-81:/drawable-nodpi/foodlogo.png"
+    }
+]

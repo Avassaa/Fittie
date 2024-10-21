@@ -185,34 +185,26 @@ fun listItem(
 fun listSubExercise(
     subTitle: String?,
     title: String,
-    shape: androidx.compose.ui.graphics.Shape= RoundedCornerShape(16.dp),
+    shape: androidx.compose.ui.graphics.Shape = RoundedCornerShape(16.dp),
     color: Color = RecyclerPurple,
     textColor: Color = Color.White,
     arrowColor: Color = Color.White,
     onClick: () -> Unit = {},
     isSelected: Boolean,
     showCheckbox: Boolean,
-    onLongClick: () -> Unit,
     onCheckedChange: (Boolean) -> Unit
 ) {
     val context = LocalContext.current
-    var isLongPressed by remember { mutableStateOf(false) }
-
     Surface(
         color = color,
-        border = BorderStroke(width=0.3.dp,brush=Brush.linearGradient(colors=listOf(Color.Magenta,Color.Cyan))),
+        border = BorderStroke(width = 0.3.dp, brush = Brush.linearGradient(colors = listOf(Color.Magenta, Color.Cyan))),
         shape = shape,
         modifier = Modifier
             .padding(vertical = 4.dp, horizontal = 8.dp)
-            .combinedClickable(
-                onClick = { onClick() },
-                onLongClick = {
-                    isLongPressed = true
-                    onLongClick()
-                },
-            )
-            .background(color = if (isLongPressed) LightGray else color),
-        ) {
+            .clickable {
+                onCheckedChange(!isSelected) // Toggle the selection
+            }
+    ) {
         Column(
             modifier = Modifier
                 .padding(24.dp)
@@ -220,8 +212,7 @@ fun listSubExercise(
         ) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Column(
-                    modifier = Modifier
-                        .weight(1f)
+                    modifier = Modifier.weight(1f)
                 ) {
                     if (subTitle != null) {
                         Text(
@@ -237,7 +228,7 @@ fun listSubExercise(
                         color = textColor
                     )
                 }
-                if (showCheckbox && (isSelected || isLongPressed)) {
+                if (showCheckbox) {
                     Checkbox(
                         checked = isSelected,
                         onCheckedChange = { onCheckedChange(it) }
@@ -256,6 +247,7 @@ fun listSubExercise(
         }
     }
 }
+
 
 @Composable
 fun GoRecycler(
@@ -707,11 +699,13 @@ fun SubExerciseRecyclerView(
                 arrowColor = arrowColor,
                 isSelected = tempSelectedSubExercises.contains(item.subExerciseID),
                 showCheckbox = showSelection,
-                onLongClick = {
+                onClick = {
                     if (!tempSelectedSubExercises.contains(item.subExerciseID)) {
                         tempSelectedSubExercises.add(item.subExerciseID)
-                        isConfirmVisible = tempSelectedSubExercises.isNotEmpty()
+                    } else {
+                        tempSelectedSubExercises.remove(item.subExerciseID)
                     }
+                    isConfirmVisible = tempSelectedSubExercises.isNotEmpty()
                 },
                 onCheckedChange = { isSelected ->
                     if (isSelected) {
@@ -771,5 +765,7 @@ fun SubExerciseRecyclerView(
             }
         }
     }
+
 }
+
 

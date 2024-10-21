@@ -59,7 +59,6 @@ fun Activities() {
             Toast.makeText(context, "Filtered sessions are null!", Toast.LENGTH_SHORT).show()
         }
 
-        // Check for filtered results and show a toast if empty
         if (filteredSessions.isNullOrEmpty()) {
             Toast.makeText(context, "No exercises found for the selected interval!", Toast.LENGTH_SHORT).show()
         }
